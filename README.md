@@ -1,9 +1,9 @@
-# WPM463 2 channel Solid State Relay module
+# WPSE475 Whadda RGB LED ring shield for micro:bit
 
 This example will repeatedly turn both SSR channels on and off.
 
-## Library dependencies
-* None
+## Extensions used
+* neopixel
 
 ## Wiring diagram
 ![](./wiring_diagram.png)
