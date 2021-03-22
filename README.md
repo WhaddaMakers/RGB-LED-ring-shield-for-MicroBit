@@ -1,9 +1,9 @@
-# WPSE475 Whadda RGB LED ring shield for micro:bit
+# Whadda RGB LED ring shield for micro:bit (WPSE475)
 
 ![](./installed_shield.jpg)
 
 This example shows off all of the different sensors and LEDs on the RGB LED ring shield.
-It will show a standard test sequence of the RGB LEDs, play a tune on the buzzer. Afterwards, the LEDs will behave like a simple VU meter using the built-in microphone.
+It will show a standard test sequence of the RGB LEDs, play a tune on the buzzer. Afterward, the LEDs will behave like a simple VU meter using the built-in microphone.
 
 ## Extensions used
 * neopixel
@@ -21,4 +21,4 @@ It will show a standard test sequence of the RGB LEDs, play a tune on the buzzer
 5. Download the code to your micro:bit
 
 ## Additional information
-  For more information about the Whadda WPM463 2 channel Solid State Relay module, check the manual available at [whadda.com](https://whadda.com) 
+  For more information about theWhadda RGB LED ring shield for micro:bit (WPSE475), check the manual available at [whadda.com](https://whadda.com) 
