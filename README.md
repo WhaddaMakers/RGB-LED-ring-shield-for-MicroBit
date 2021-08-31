@@ -1,4 +1,4 @@
-# Whadda RGB LED ring shield for micro:bit (WPSE475)
+# Whadda RGB LED ring shield for Micro:Bit (WPSE475)
 
 ![](./installed_shield.jpg)
 
